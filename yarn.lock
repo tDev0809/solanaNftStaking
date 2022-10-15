@@ -215,17 +215,17 @@
     colors "^1.4.0"
     tslib "^2.4.0"
 
-"@saberhq/eslint-config@^1.10.1":
-  version "1.13.32"
-  resolved "https://registry.yarnpkg.com/@saberhq/eslint-config/-/eslint-config-1.13.32.tgz#598b49f480deee48be4b1be0e162d0fedcef937f"
+"@saberhq/eslint-config@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@saberhq/eslint-config/-/eslint-config-2.1.0.tgz#0833e49b561cadf22a3ba1ddba92b6aee2249d0e"
   dependencies:
-    "@typescript-eslint/eslint-plugin" "^5.30.0"
-    "@typescript-eslint/parser" "^5.30.0"
+    "@typescript-eslint/eslint-plugin" "^5.38.1"
+    "@typescript-eslint/parser" "^5.38.1"
     eslint-config-prettier "^8.5.0"
     eslint-import-resolver-node "^0.3.6"
     eslint-plugin-import "^2.26.0"
-    eslint-plugin-prettier "^4.1.0"
-    eslint-plugin-simple-import-sort "^7.0.0"
+    eslint-plugin-prettier "^4.2.1"
+    eslint-plugin-simple-import-sort "^8.0.0"
     eslint-plugin-unused-imports "^2.0.0"
     prettier "^2.7.1"
 
@@ -400,7 +400,7 @@
   dependencies:
     "@types/node" "*"
 
-"@typescript-eslint/eslint-plugin@^5.30.0":
+"@typescript-eslint/eslint-plugin@^5.38.1":
   version "5.40.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-5.40.0.tgz#0159bb71410eec563968288a17bd4478cdb685bd"
   dependencies:
@@ -413,7 +413,7 @@
     semver "^7.3.7"
     tsutils "^3.21.0"
 
-"@typescript-eslint/parser@^5.30.0":
+"@typescript-eslint/parser@^5.38.1":
   version "5.40.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-5.40.0.tgz#432bddc1fe9154945660f67c1ba6d44de5014840"
   dependencies:
@@ -1087,15 +1087,15 @@ eslint-plugin-import@^2.25.3, eslint-plugin-import@^2.26.0:
     resolve "^1.22.0"
     tsconfig-paths "^3.14.1"
 
-eslint-plugin-prettier@^4.1.0:
+eslint-plugin-prettier@^4.2.1:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz#651cbb88b1dab98bfd42f017a12fa6b2d993f94b"
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-simple-import-sort@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-7.0.0.tgz#a1dad262f46d2184a90095a60c66fef74727f0f8"
+eslint-plugin-simple-import-sort@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-8.0.0.tgz#9d9a2372b0606e999ea841b10458a370a6ccc160"
 
 eslint-plugin-unused-imports@^2.0.0:
   version "2.0.0"
