@@ -284,8 +284,8 @@
     dotenv "10.0.0"
 
 "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.30.2", "@solana/web3.js@^1.31.0", "@solana/web3.js@^1.36.0":
-  version "1.65.0"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.65.0.tgz#61b9742ee59ac574d88204ba23e68778fe8b42d3"
+  version "1.66.2"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.66.2.tgz#80b43c5868b846124fe3ebac7d3943930c3fa60c"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@noble/ed25519" "^1.7.0"
